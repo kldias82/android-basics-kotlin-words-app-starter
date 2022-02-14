@@ -9,6 +9,8 @@
         <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/drawable/ic_linear_layout.xml" value="0.221875" />
         <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_detail.xml" value="0.291213768115942" />
         <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_main.xml" value="0.291213768115942" />
+        <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/layout/fragment_letter_list.xml" value="0.2717391304347826" />
+        <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/layout/fragment_word_list.xml" value="0.2717391304347826" />
         <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/layout/item_view.xml" value="0.291213768115942" />
         <entry key="..\:/android/android-basics-kotlin-words-app-starter/app/src/main/res/menu/layout_menu.xml" value="0.20572916666666666" />
       </map>
